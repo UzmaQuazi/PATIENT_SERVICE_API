@@ -23,11 +23,11 @@ async def get_users():
 
         {
 
-            "firstName": "Fritz",
+            "firstName": "Quazi",
 
-            "lastName": "Batroni",
+            "lastName": "Uzma",
 
-            "email": "fritz.g.batroni@gmail.com"
+            "email": "quaziuzma@gmail.com"
 
         }
 
